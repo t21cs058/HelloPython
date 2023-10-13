@@ -5,3 +5,4 @@ Created on 2023/10/13
 '''
 
 print("Hello,Python world")
+#ファイルに変更を加えるための文の追加
